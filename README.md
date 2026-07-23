@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mauricio 👋
 
-<!--
-**mggn1412/mggn1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Python, Django and AI applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python Developer
+- Django & Django REST Framework
+- Learning LangChain, RAG and LLM applications
+- Interested in Backend and AI Engineering
+
+## Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- LangChain
+- ChromaDB
+- PostgreSQL
+- Git
+
+## Featured Projects
+
+### Django Documentation Assistant
+
+A Retrieval-Augmented Generation (RAG) chatbot built with Django, LangChain, ChromaDB and Google Gemini that answers questions using the official Django documentation.
